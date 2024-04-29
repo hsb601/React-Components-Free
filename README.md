@@ -1,6 +1,6 @@
 # Demo Picture
 
-![image](https://github.com/hsb601/React-Components-Free/assets/65144195/b7c06c06-e994-47c8-bce4-d71ef8613f4a)
+![image](https://github.com/hsb601/React-Components-Free/assets/65144195/e5f5e0bb-42aa-47bd-bb6d-f7050a25435d)
 
 # Getting Started with Create React App
 
